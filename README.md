@@ -1,2 +1,2 @@
-# E-Commerce-site
-Web development project
+# e-commerce-website
+Website Development
